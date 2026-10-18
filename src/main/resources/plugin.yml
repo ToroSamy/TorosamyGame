@@ -1,0 +1,8 @@
+name: TorosamyGame
+main: net.torosamy.torosamyGame.TorosamyGame
+version: '${project.version}'
+author: '${plugin.yml.author}'
+website: '${plugin.yml.website}'
+api-version: '${plugin.yml.api}'
+depend:
+  - TorosamyCore

@@ -1,0 +1,27 @@
+rps-request-auto-cancel-second: 30
+rps-game-finish-second: 5
+rps-tie-commands:
+  - "[message] &b[服务器娘]&a平局"
+rps-win-commands:
+  - "[message] &b[服务器娘]&a你赢了"
+rps-lose-commands:
+  - "[message] &b[服务器娘]&a你输了"
+    
+fish-request-auto-cancel-second: 30
+fish-game-finish-second: 60
+fish-tie-commands:
+  - "[message] &b[服务器娘]&a平局"
+fish-win-commands:
+  - "[message] &b[服务器娘]&a你赢了"
+fish-lose-commands:
+  - "[message] &b[服务器娘]&a你输了"
+
+
+snow-request-auto-cancel-second: 30
+snow-game-finish-second: 60
+snow-tie-commands:
+  - "[message] &b[服务器娘]&a平局"
+snow-win-commands:
+  - "[message] &b[服务器娘]&a你赢了"
+snow-lose-commands:
+  - "[message] &b[服务器娘]&a你输了"

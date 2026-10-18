@@ -1,0 +1,80 @@
+package net.torosamy.torosamyGame.config;
+
+import net.torosamy.torosamyCore.config.IConfigManage;
+
+public class LangConfig implements IConfigManage {
+    public String selfError;
+    public String reloadMessage;
+    public String isGaming;
+    
+    public String rpsNotFound;
+    public String rpsRepeat;
+    public String rpsSenderMessage;
+    public String rpsSenderCancelMessage;
+    public String rpsSenderCancelHover;
+    public String rpsSenderCancelCommand;
+    public String rpsReceiverMessage;
+    public String rpsReceiverAcceptMessage;
+    public String rpsReceiverAcceptHover;
+    public String rpsReceiverAcceptCommand;
+    public String rpsReceiverDenyMessage;
+    public String rpsReceiverDenyHover;
+    public String rpsReceiverDenyCommand;
+    public String rpsSenderCancel;
+    public String rpsReceiverCancel;
+    public String rpsSenderExpired;
+    public String rpsReceiverExpired;
+    public String rpsReceiverDeny;
+    public String rpsSenderDeny;
+    public String rpsMenuTitle;
+    public String rpsFrameDisplay;
+    public String rpsStoneDisplay;
+    public String rpsPaperDisplay;
+    public String rpsScissorsDisplay;
+    public String rpsOptionDisplay;
+    public String rpsConfirmDisplay;
+    public String rpsCloseMenu;
+    public String rpsFinishDisplay;
+
+    public String fishNotFound;
+    public String fishRepeat;
+    public String fishSenderMessage;
+    public String fishSenderCancelMessage;
+    public String fishSenderCancelHover;
+    public String fishSenderCancelCommand;
+    public String fishReceiverMessage;
+    public String fishReceiverAcceptMessage;
+    public String fishReceiverAcceptHover;
+    public String fishReceiverAcceptCommand;
+    public String fishReceiverDenyMessage;
+    public String fishReceiverDenyHover;
+    public String fishReceiverDenyCommand;
+    public String fishSenderCancel;
+    public String fishReceiverCancel;
+    public String fishSenderExpired;
+    public String fishReceiverExpired;
+    public String fishReceiverDeny;
+    public String fishSenderDeny;
+    public String fishGamingInfo;
+
+    public String snowNotFound;
+    public String snowRepeat;
+    public String snowSenderMessage;
+    public String snowSenderCancelMessage;
+    public String snowSenderCancelHover;
+    public String snowSenderCancelCommand;
+    public String snowReceiverMessage;
+    public String snowReceiverAcceptMessage;
+    public String snowReceiverAcceptHover;
+    public String snowReceiverAcceptCommand;
+    public String snowReceiverDenyMessage;
+    public String snowReceiverDenyHover;
+    public String snowReceiverDenyCommand;
+    public String snowSenderCancel;
+    public String snowReceiverCancel;
+    public String snowSenderExpired;
+    public String snowReceiverExpired;
+    public String snowReceiverDeny;
+    public String snowSenderDeny;
+    public String snowGamingInfo;
+}
